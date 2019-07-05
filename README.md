@@ -1,6 +1,6 @@
 # 🦀🕸 `wasm-sudoku`
 
-Based on [create-wasm-app](https://github.com/rustwasm/create-wasm-app)
+A sudoku solver based on WASM.
 
 ## Quick Start
 

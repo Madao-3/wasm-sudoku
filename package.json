@@ -1,7 +1,7 @@
 {
   "author": "Madao Chris <chrishyman256@gmail.com>",
   "name": "wasm-sudoku-solver",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "repository": "https://github.com/Madao-3/wasm-sudoku",
   "license": "(MIT OR Apache-2.0)",
   "scripts": {
